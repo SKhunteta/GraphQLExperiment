@@ -1,0 +1,22 @@
+{
+  "name": "graphqlexperiment",
+  "version": "1.0.0",
+  "description": "Graph QL experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKhunteta/GraphQLExperiment.git"
+  },
+  "author": "Shreyans Khunteta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKhunteta/GraphQLExperiment/issues"
+  },
+  "homepage": "https://github.com/SKhunteta/GraphQLExperiment#readme",
+  "dependencies": {
+    "graphql": "^14.5.8"
+  }
+}
